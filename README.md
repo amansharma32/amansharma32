@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amansharma32
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on future science
+- 🌱 I’m currently learning FullStack Developer Tools
+- 💞️ I’m looking to collaborate on future technology 
 - 📫 How to reach me 🕳️
 
 <!---
